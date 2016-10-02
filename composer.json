@@ -2,8 +2,8 @@
     "name": "menarasolutions/geographer-uk",
     "type": "library",
     "description": "Ukrainian translations for Geographer library",
-    "keywords": ["geolocation","localization","geonames","geo"],
-    "homepage": "https://github.com/MenaraSolutions/geographer",
+    "keywords": ["ukrainian","geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-uk",
     "license": "MIT",
     "authors": [
         {
